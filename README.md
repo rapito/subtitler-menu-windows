@@ -6,7 +6,8 @@ Adds [node-subtitler](https://github.com/divhide/node-subtitler) shortcut to win
 
 ## Installation
 
-- ``cmd``
+- Download install_subtitler.cmd
+- ``cmd`` into its directory.
 - ``install_subtitler.cmd``
 
 ## Depends on 
