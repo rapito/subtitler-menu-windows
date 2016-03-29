@@ -1,4 +1,4 @@
-# subttiler-menu-windows
+# subtitler-menu-windows
 
 Adds [node-subtitler](https://github.com/divhide/node-subtitler) shortcut to windows context menu.
 
